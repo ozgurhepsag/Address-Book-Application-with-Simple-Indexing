@@ -426,8 +426,8 @@ void updateRecord(char * name, char * surname, int answer){
 	
 	 int flagForNewPK = 0;
    	 char nameForUpdate[30];
-     char surnameForUpdate[30];
-     char addressForUpdate[100];
+     	 char surnameForUpdate[30];
+     	 char addressForUpdate[100];
 	 char additionForUpdate[90];
 	 
 	 if(answer == 1){ 	// which part that user want to change
